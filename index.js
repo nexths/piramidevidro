@@ -365,6 +365,6 @@
     });
   }
 
-  switchScene(scenes[0]);
+  switchScene(scenes[2]);
 
 })();
